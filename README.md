@@ -1,6 +1,6 @@
 从awr1642中获取毫米波雷达点云数据，用神经网络进行手势识别。模型用PyTorch训练，达到了 99% 的准确率。并且将模型部署到raspberrypi4b上，实现了移动设备上的实时手势识别。
 
-![Image text](https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/awr1642boost-top.png)
+![Image text](https://github.com/lyz678/gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/gesture_recognition.gif)
 
 # 环境依赖
 - pytorch
