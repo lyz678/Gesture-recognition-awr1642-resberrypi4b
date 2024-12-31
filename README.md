@@ -2,12 +2,15 @@
 
 ![Image text](https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/awr1642boost-top.png)
 
-# 安装
-```bash
-git clone https://github.com/lyz678/Emotion-recogniton-pytorch.git  # clone
-cd Emotion-recogniton-pytorch
-pip install -r requirements.txt  # install
-```
+# 环境依赖
+- pytorch
+- onnx
+- pyserial
+- onnxruntime
+- numpy
+- opencv-python
+- PyQt5
+- 
 
 # Gesture Dataset
 - 数据集来自 - [data](https://www.dropbox.com/scl/fi/y431rn0eauy2qkiz0y0g2/data.zip?rlkey=punhs9iquojldn6ug2owgnkbv&dl=0) (20k samples - 2k per class) ~120Mb
