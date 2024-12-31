@@ -58,8 +58,11 @@ python main.py
 # 1642串口数据读取参考
 - https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
   
-# 手势识别参考
+# 手势识别模型及数据集参考
 - https://github.com/vilari-mickopf/mmwave-gesture-recognition
+
+
+
 
 
 
