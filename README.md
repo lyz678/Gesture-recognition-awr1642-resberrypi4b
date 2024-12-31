@@ -1,4 +1,4 @@
-从awr1642中获取毫米波雷达点云数据，用神经网进行手势识别。模型用PyTorch训练，模型达到了 99% 的准确率。并且将模型部署到raspberrypi4b上，实现了移动设备上的实时手势识别。
+从awr1642中获取毫米波雷达点云数据，用神经网络进行手势识别。模型用PyTorch训练，模型达到了 99% 的准确率。并且将模型部署到raspberrypi4b上，实现了移动设备上的实时手势识别。
 
 ![Image text](https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/awr1642boost-top.png)
 
@@ -55,10 +55,10 @@ python main.py
 
 # 在raspberrypi4b上运行
 
-- 将main.py依赖的文件下载到raspberrypi4b
+- 将main_raspberrypi.py及其依赖文件下载到raspberrypi4b上
 
 ```bash
-python main.py
+python main_raspberrypi.py
 ```
 # 1642串口数据读取参考
 - https://github.com/ibaiGorordo/AWR1642-Read-Data-Python-MMWAVE-SDK-2
