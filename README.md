@@ -48,9 +48,7 @@ python evalute.py
 ```bash
 python main.py
 ```
-<video width="668" height="848" controls>
-  <source src="https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/%E5%BD%95%E5%B1%8F%202024-12-27%2011-23-10.mp4" type="video/mp4">
-</video>
+点击这里观看视频](https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/%E5%BD%95%E5%B1%8F%202024-12-27%2011-23-10.mp4)
 
 # 在raspberrypi4b上运行
 
