@@ -51,6 +51,7 @@ python evalute.py
 ```bash
 python main.py
 ```
+![Image text](https://www.ti.com/content/dam/ticom/images/products/ic/sensing-products/evm-boards/awr1642boost-top.png)
 
 # 在raspberrypi4b上运行
 
