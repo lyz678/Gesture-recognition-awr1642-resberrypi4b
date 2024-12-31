@@ -48,6 +48,10 @@ python evalute.py
 ```bash
 python main.py
 ```
+<video width="320" height="240" controls>
+  <source src="https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/%E5%BD%95%E5%B1%8F%202024-12-27%2011-23-10.mp4" type="video/mp4">
+</video>
+
 # 在raspberrypi4b上运行
 
 - 将main.py依赖的文件下载到raspberrypi4b
