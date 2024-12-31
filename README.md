@@ -10,7 +10,7 @@
 - numpy
 - opencv-python
 - PyQt5
-- 
+- ...
 
 # Gesture Dataset
 - 数据集来自 - [data](https://www.dropbox.com/scl/fi/y431rn0eauy2qkiz0y0g2/data.zip?rlkey=punhs9iquojldn6ug2owgnkbv&dl=0) (20k samples - 2k per class) ~120Mb
