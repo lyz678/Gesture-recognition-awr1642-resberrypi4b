@@ -42,7 +42,7 @@ python export.py
 python predict.py
 python evalute.py
 ```
-![Image text]([https://github.com/lyz678/Emotion-recogniton-pytorch/blob/main/result/demo1.jpg](https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/confusion.png))
+![Image text](https://github.com/lyz678/Gesture-recognition-awr1642boost-raspberrypi4b/blob/main/models/confusion.png)
 
 # 连接awr1642实测
 ```bash
